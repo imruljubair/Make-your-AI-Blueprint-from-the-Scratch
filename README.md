@@ -44,4 +44,13 @@ To automate, I used **MS Excel’s Office Script** (based on TypeScript). The us
 - Hit run button
 - A sheet named Blueprint will be generated with the visualization of the workflow in AI-by-Hand format
 
+***
+<img width="796" height="657" alt="image" src="https://github.com/user-attachments/assets/a6405c0b-a71f-44b8-b0df-3abca92338de" />
+
+<img width="614" height="233" alt="image" src="https://github.com/user-attachments/assets/d05e7853-85b2-4eb5-8919-af151a07ef01" />
+
+<img width="386" height="689" alt="image" src="https://github.com/user-attachments/assets/f8064913-de24-4dfe-86fe-2a3798c8afdf" />
+
+
+
 
